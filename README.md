@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/mzdvlogz" target="blank"><img src="https://img.shields.io/twitter/follow/mzdvlogz?logo=twitter&style=for-the-badge" alt="mzdvlogz" /></a> </p>
 
-- 🔭 Currently working in [BROTOTYPE]([https://brototype.com/])
+- 🔭 Currently working in [Maison D' Auraine]([https://maisondauraine.com/])
 
-- 🌱 Currently learning **MERN STACK**
+- 🌱 Currently learning **Full STACK**
 
-- 👨‍💻 All of my projects are available at [https://www.machumzd.ml/](https://www.machumzd.ml/)
+- 👨‍💻 Few of my projects are available at [https://www.machumzd.ml/](https://www.machumzd.ml/)
 
-- 💬 Ask me about **Mongodb,ExpressJs,ReactJs,NodeJs,Java,C**
+- 💬 Ask me about **Full stack developement**
 
 - 📫 reach me **machumzdofcl@gmail.com**
 
