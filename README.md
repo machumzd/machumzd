@@ -11,7 +11,7 @@
 
 - 🌱 Currently learning **Full STACK**
 
-- 👨‍💻 Few of my projects are available at [https://www.machumzd.ml/](https://www.machumzd.ml/)
+- 👨‍💻 Few of my projects are available at [mazood.live](https://mazood.live/)
 
 - 💬 Ask me about **Full stack developement**
 
