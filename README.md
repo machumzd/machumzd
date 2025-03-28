@@ -9,9 +9,9 @@
 
 - 🔭 Currently working in [Maison D' Auraine]([https://maisondauraine.com/])
 
-- 🌱 Currently learning **Full STACK**
+- 🌱 Currently learning **NEXT JS & NEST JS**
 
-- 👨‍💻 Few of my projects are available at [mazood.live](https://mazood.live/)
+- 👨‍💻 Few of my projects are available at [mazood.live]((https://machumzd.github.io/Personal-Portfolio/)/)
 
 - 💬 Ask me about **Full stack developement**
 
