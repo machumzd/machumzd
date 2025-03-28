@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://machumzd.io)
+[![MasterHead](https://i.ibb.co/hTB5kW0/1711522690949.jpg)](https://machumzd.io](https://machumzd.github.io/Personal-Portfolio/))
 <h1 align="center">Hi 👋, I'm Abdul Mazood</h1>
 <h3 align="center">A passionate FullStack dev from India</h3>
 
